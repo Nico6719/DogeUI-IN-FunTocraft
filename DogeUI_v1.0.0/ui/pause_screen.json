@@ -108,7 +108,7 @@
                 "t": {
                     "size": [
                         "100%-4px",
-                        "100%-2px
+                        "100%-2px"
                     ],
                     "type": "label",
                     "text_alignment": "left",
