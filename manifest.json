@@ -4,14 +4,14 @@
 	"github":"https://github.com/DogeLakeDev/DogeUI",
 	"header":{
 		"name":"§l§eDoge§r§lUI",
-		"description":"一款为 BDS 服务器设计的通用 UI。\n作者：DogeLakeDeV",
+		"description":"一款为 BDS 服务器设计的通用 UI。\n作者：DogeLakeDeV,二次修改by Nico6719",
 		"uuid":"06ffda58-af2d-2dd4-1c67-ccda23ea3e08",
 		"min_engine_version":[ 1, 20, 30 ],
 		"version":[1,0,0]
 	},
 	"modules":[
 		{
-			"description":"§l§eDoge§r§lUI",
+			"description":"§l§eDoge§r§lUI For FunToCraft",
 			"type":"resources",
 			"uuid":"c584dab8-2aca-3bf5-5257-de9bc4050364",
 			"version":[
